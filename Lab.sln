@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pointlib", "Pointlib\Pointlib.vbproj", "{AA43BC50-CA6A-43E7-BEE6-5534F792F811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsApp", "FormsApp\FormsApp.csproj", "{FD10CE38-6C3C-44D3-BCC1-1783DD117EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA43BC50-CA6A-43E7-BEE6-5534F792F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA43BC50-CA6A-43E7-BEE6-5534F792F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA43BC50-CA6A-43E7-BEE6-5534F792F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA43BC50-CA6A-43E7-BEE6-5534F792F811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD10CE38-6C3C-44D3-BCC1-1783DD117EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD10CE38-6C3C-44D3-BCC1-1783DD117EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD10CE38-6C3C-44D3-BCC1-1783DD117EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD10CE38-6C3C-44D3-BCC1-1783DD117EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B929683-BC00-4F33-A0FB-61860E136687}
+	EndGlobalSection
+EndGlobal
